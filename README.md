@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSheepCode
 - 👀 I’m interested in Web Developement
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning SASS & JS
 - 📫 Contact me @ itspixeljb@gmail.com 
 
 <!---
