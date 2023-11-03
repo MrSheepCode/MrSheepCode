@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrSheepCode
 - 👀 I’m interested in Web Developement. I know HTML, CSS, SCSS/SASS, Bootstrap & a bit of Javascript.
-- 🌱 I’m currently learning SASS & JS
+- 🌱 I’m currently learning SASS & JS.
 
 
 <!---
